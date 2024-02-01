@@ -1,3 +1,5 @@
+![Sequence 01 (1)](https://github.com/pranavp-work/ublockScript-yt-ShortsBlock/assets/152397828/4adfe5fd-69ff-43db-9ab9-0d987ddf7c4f)
+
 # ublockScript-yt-ShortsBlock
 Copy and paste the script to uBlock chrome extension's filter to remove shorts from your YouTube feed :
 
