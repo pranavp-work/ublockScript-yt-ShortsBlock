@@ -1,4 +1,5 @@
 ![Sequence 01 (1)](https://github.com/pranavp-work/ublockScript-yt-ShortsBlock/assets/152397828/4adfe5fd-69ff-43db-9ab9-0d987ddf7c4f)
+
 Tutorial : https://www.linkedin.com/posts/pranavp-work_productivityhacks-youtubeshorts-ublock-activity-7158165553411493890-7beT?utm_source=share&utm_medium=member_desktop
 
 # ublockScript-yt-ShortsBlock
